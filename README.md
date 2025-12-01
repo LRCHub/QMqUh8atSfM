@@ -1,0 +1,29 @@
+# Google – Google AI Plus - Video Gen Panda Fashion 25s 16x9 jaJP
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Jump in me old jeep wagon
+Bump it to the banks of the river
+Dig me a worm and a cricket squirm
+And a-wade out into the water
+Oh, goodbye google eye
+Eat him up a-google eye a-google eye a-google eye
+Eat him up a-google eye a-google eye a-google eye
+Goodbye google eye Bait me a hook in the morning
+Throw him out into the water
+Make him swim with a dorsal fin
+And come home to me daughter
+Oh oh goodbye google eye... Google eye swim by me hipboot
+Look up at me from the water
+Google eye chomp and me fall on me romp
+But me get him up out of the water
+Oh goodbye google eye... Google eye fry in the sizzle
+Sweet smoke lay on the water
+Take old google eye's scales 'n tails
+Home to me daughter
+Oh goodbye google eye
+Ate him up a-google eye, a-google eye, a-google eye
+Ate him up a-google eye, a-google eye, a-google eye
+Good bye google eye
+```
