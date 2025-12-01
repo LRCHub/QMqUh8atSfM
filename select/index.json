@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Google AI Plus - Video Gen Panda Fashion 25s 16x9 jaJP",
+  "base_artist": "Google",
+  "createdAt": "2025-12-01T03:22:53.076789Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sharing Is Caring (Google+)",
+      "artist": "Dan Bull",
+      "has_synced": false,
+      "path": "select/01_Sharing_Is_Caring_(Google+)_Dan_Bull.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sharing Is Caring (Google+ Aca",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/02_Sharing_Is_Caring_(Google+_Aca_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sharing Is Caring (Google+)",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/03_Sharing_Is_Caring_(Google+)_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Google Your Own Death",
+      "artist": "Clown Core",
+      "has_synced": false,
+      "path": "select/04_Google_Your_Own_Death_Clown_Core.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Google Google",
+      "artist": "Vijay feat. Andrea, Krishna Iyer & (Rap) Joe",
+      "has_synced": true,
+      "path": "select/05_Google_Google_Vijay_feat._Andrea,_Krishna_Iyer_&_(Rap)_Joe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Google Google-VmusiQ.Com",
+      "artist": "Vijay, Andrea, Joe, Krishna Iyer",
+      "has_synced": true,
+      "path": "select/06_Google_Google-VmusiQ.Com_Vijay,_Andrea,_Joe,_Krishna_Iyer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Google Maps",
+      "artist": "ExQsMe",
+      "has_synced": true,
+      "path": "select/07_Google_Maps_ExQsMe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Google Maps",
+      "artist": "BEXEY",
+      "has_synced": true,
+      "path": "select/08_Google_Maps_BEXEY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Google Yourself Freestyle",
+      "artist": "Sybyr",
+      "has_synced": false,
+      "path": "select/09_Google_Yourself_Freestyle_Sybyr.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Google Yourself Freestyle",
+      "artist": "Syringe",
+      "has_synced": false,
+      "path": "select/10_Google_Yourself_Freestyle_Syringe.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fire Up the Google Beast Algorithm",
+      "artist": "dEUS",
+      "has_synced": false,
+      "path": "select/11_Fire_Up_the_Google_Beast_Algorithm_dEUS.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Google Google",
+      "artist": "Vijay feat. Andrea Jeremiah, Krishna Iyer & (Rap) Joe",
+      "has_synced": true,
+      "path": "select/12_Google_Google_Vijay_feat._Andrea_Jeremiah,_Krishna_Iyer_&_(Rap)_Joe.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Google Google",
+      "artist": "Vijay, Andrea Jeremiah & Krishna Iyer",
+      "has_synced": true,
+      "path": "select/13_Google_Google_Vijay,_Andrea_Jeremiah_&_Krishna_Iyer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Google Eye",
+      "artist": "The Nashville Teens",
+      "has_synced": false,
+      "path": "select/14_Google_Eye_The_Nashville_Teens.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dr.Google",
+      "artist": "Dame feat. Frozan",
+      "has_synced": true,
+      "path": "select/15_Dr.Google_Dame_feat._Frozan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dr.Google (feat. Frozan)",
+      "artist": "Dame",
+      "has_synced": true,
+      "path": "select/16_Dr.Google_(feat._Frozan)_Dame.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Saint Google",
+      "artist": "Babbu Maan",
+      "has_synced": true,
+      "path": "select/17_Saint_Google_Babbu_Maan.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Google weiß Bescheid",
+      "artist": "Systemo",
+      "has_synced": false,
+      "path": "select/18_Google_weiß_Bescheid_Systemo.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Google Google",
+      "artist": "Vijay",
+      "has_synced": true,
+      "path": "select/19_Google_Google_Vijay.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Google Me (feat. Alika & Ms Banks)",
+      "artist": "CLiQ, Alika, Ms Banks",
+      "has_synced": false,
+      "path": "select/pl_01_Google_Me_(feat._Alika_&_Ms_Banks)_CLiQ,_Alika,_Ms_Banks.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "google map",
+      "artist": "CLiQ, Alika, Ms Banks",
+      "has_synced": false,
+      "path": "select/pl_02_google_map_CLiQ,_Alika,_Ms_Banks.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Google Me",
+      "artist": "CLiQ, Alika, Ms Banks",
+      "has_synced": false,
+      "path": "select/pl_03_Google_Me_CLiQ,_Alika,_Ms_Banks.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Google Jesus",
+      "artist": "CLiQ, Alika, Ms Banks",
+      "has_synced": false,
+      "path": "select/pl_04_Google_Jesus_CLiQ,_Alika,_Ms_Banks.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Google Eye",
+      "artist": "CLiQ, Alika, Ms Banks",
+      "has_synced": false,
+      "path": "select/pl_05_Google_Eye_CLiQ,_Alika,_Ms_Banks.txt"
+    }
+  ]
+}
